@@ -1,6 +1,8 @@
 Ant
 ===
 
+![screenshot](https://github.com/jessehorne/ant/blob/master/screenshot.png)
+
 An open-source implementation of Langton's Ant using Python and pygame.
 
 ## Please Note!
