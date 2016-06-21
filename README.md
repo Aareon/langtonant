@@ -1,5 +1,5 @@
-Ant
-===
+langtonant
+==========
 
 ![screenshot](https://github.com/jessehorne/ant/blob/master/screenshot.png)
 
